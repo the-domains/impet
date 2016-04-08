@@ -1,0 +1,28 @@
+name: impet
+favicon: null
+layout_spectrum: 0.9647585183847696
+typography_spectrum: 0.7074108947999775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6416442999616265
+  lightness: 0.8210271464195102
+  saturation: 0.06622423348017037
+  rhythmicContrast: 0.22918360796757042
+purpose: []
