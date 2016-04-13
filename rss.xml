@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[impet]]></title>
         <description><![CDATA[impet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/impet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 14:13:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 14:14:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/impet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ Кондиционирование и вентиляция]]></title>
             <description><![CDATA[<article><h1> Кондиционирование и вентиляция</h1><p>СЗАО "Импет" предлагает энергосберегающее</p></article>]]></description>
-            <link>undefinedkondicionirovanie-i-ventilyaciya/index.html</link>
+            <link>https://thegrid.ai/impet/kondicionirovanie-i-ventilyaciya/index.html</link>
             <guid isPermaLink="false">58f446a9-c7fc-4d72-8f76-65f6a5324f1a</guid>
-            <pubDate>Wed, 13 Apr 2016 14:13:15 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 14:13:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
