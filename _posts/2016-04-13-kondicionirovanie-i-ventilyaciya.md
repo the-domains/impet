@@ -1,23 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: 'СЗАО "Импет" предлагает энергосберегающее'
-datePublished: '2016-04-13T14:13:51.078Z'
-dateModified: '2016-04-13T14:13:50.433Z'
-title: ' Кондиционирование и вентиляция'
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-09-01T13:14:27.698Z'
 sourcePath: _posts/2016-04-13-kondicionirovanie-i-ventilyaciya.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-09-01T13:14:27.208Z'
+title: ''
+publisher: {}
+description: СЗАО "Импет" предлагает энергосберегающее
+inLanguage: null
+inNav: true
+via: {}
+starred: true
 url: kondicionirovanie-i-ventilyaciya/index.html
 _type: Article
 
@@ -26,7 +22,7 @@ _type: Article
 
 [оборудование Seeley Breezair][0]
 
-для охлаждения, вентиляции, увлажнения, очистки, одорирования воздуха для помещений площадью от 75 до 50 000 квадратных метров и высотой потолков от 3 до 10 метров. 
+для охлаждения, вентиляции, увлажнения, очистки, одорирования воздуха для помещений площадью от 75 до 50 000 квадратных метров и высотой потолков от 3 до 10 метров.
 
 Экологически чистая, энергосберегающая
 
@@ -34,7 +30,7 @@ _type: Article
 
 Seelay Breezair эффективно
 
-используется при установке в: 
+используется при установке в:
 
 * заводские цеха (в том числе в которых имеется горячее производство с выделением большого количества тепла),
 * складские помещения, офисы
